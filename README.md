@@ -27,7 +27,7 @@
 
     🔷 Material-UI => I've used Material-UI to style this application.
 
-    🔷 react-ticker => to move videos like a newsticker.
+    🔷 react-ticker => to move the song name.
 
     
   **[⬆ Back to Top](#tiktok)**
