@@ -19,7 +19,7 @@ function App() {
     // BEM
     <div className="app">
       <div className="app__videos">
-         {/* tiktok is banned, due to this we can't find a proper link of tiktok video... that's why we are using brute force apporch and not using firebase firestore. */}
+         {/* tiktok is banned, due to this I didn't find a proper link of tiktok video... that's why I am using brute force apporch and not using firebase firestore. */}
         {/* {videos.map(
           ({ url, channel, description, song, likes, messages, shares }) => (
             <Video
